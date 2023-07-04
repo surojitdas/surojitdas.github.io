@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About Surojit Das
+title: About
 permalink: /about/
 ---
 
 **SUROJIT DAS**
 
-443.851.3057 • surojit\_das@hotmail.com • [www.linkedin.com/in/surojitds/](http://www.linkedin.com/in/surojitds/)
+[www.linkedin.com/in/surojitds/](http://www.linkedin.com/in/surojitds/)
 
 Current Location: **Missouri, USA**
 
-**CAREER NOTE:** Looking for Lead level .NET Developer position
 
 **Summary:**
 
