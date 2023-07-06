@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-**SUROJIT DAS**
-
+**SUROJIT DAS**<br>
+*Principal Software Engineer*
+<br>
 [www.linkedin.com/in/surojitds/](http://www.linkedin.com/in/surojitds/)
+<br>
+![Image of Surojit Das](/images/me.jpg "Surojit Das")
 
 Current Location: **Missouri, USA**
 
