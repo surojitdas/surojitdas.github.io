@@ -3,7 +3,7 @@ layout: page
 title: WordZini
 permalink: /wordzini/
 ---
-
+[![App link at Google Play Store](/images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.companyname.wordzini&pcampaignid=web_share&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 ![Image of WordZini](/images/home.jpg "WordZini")
 
 
